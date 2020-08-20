@@ -1,12 +1,15 @@
 {
     "name": "inakiabt/etsy-php",
-    "version": "0.12.2",
+    "version": "0.12.3",
     "description": "Simple PHP wrapper for Etsy API",
     "license": "MIT",
     "authors": [
-    {
-        "name": "Iñaki Abete"
-    }
+        {
+            "name": "Iñaki Abete"
+        },
+        {
+            "name": "Novus Logics"
+        }
     ],
 
     "require": {
